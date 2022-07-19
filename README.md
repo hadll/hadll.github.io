@@ -2,4 +2,4 @@
 
 #Some of my projects 
 
-[Wordle](haddle.me/wordle)
+[Wordle](wordle)
